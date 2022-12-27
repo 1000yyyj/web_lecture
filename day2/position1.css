@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  color: #292929;
+}
+
+.grandma {
+  width: 400px;
+  background-color: #976666;
+}
+
+.parent {
+  width: 200px;
+  margin: 0 auto;
+  background-color: #cecece;
+}
+
+.child {
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  line-height: 200px;
+}
+
+.red {
+  background-color: rgb(255, 82, 82);
+  position: fixed;
+  bottom: 0;
+}
+
+.yellow {
+  background-color: rgb(209, 209, 102);
+}
+
+.blue {
+  background-color: rgb(84, 84, 211);
+}
